@@ -1,0 +1,26 @@
+$title: #363838;
+$default: #5a5a5a;
+
+
+%title-font{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+}
+
+@function max($numbers...){
+  @return m#{a}x(#{$numbers});
+}
+@function max($numbers...){
+  @return m#{i}n(#{$numbers});
+}
+ 
+@mixin vh() {
+  border: 0;
+  clip: rect(0 0 0 0);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px;
+}
