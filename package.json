@@ -3,14 +3,9 @@
   "version": "1.0.0",
   "description": "1",
   "main": "gulpfile.js",
-<<<<<<< HEAD
   "homepage": "https://github.com/VasylMymriak/Desire",
   "scripts": {
-    "deploy": "gh-pages -d src"
-=======
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
->>>>>>> 9debe7970cdc37d264cb7c2438cc808f02d69319
+    "deploy": "gh-pages -d dist"
   },
   "author": "Vasyl Mumryak",
   "license": "ISC",
