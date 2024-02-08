@@ -10,8 +10,8 @@
   "author": "Vasyl Mumryak",
   "license": "ISC",
   "devDependencies": {
-    "browser-sync": "^2.27.11",
-    "del": "^6.0.0",
+    "browser-sync": "^2.29.3",
+    "del": "^6.1.1",
     "gh-pages": "^6.1.1",
     "gulp": "^4.0.2",
     "gulp-autoprefixer": "^8.0.0",
