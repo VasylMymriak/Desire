@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "1",
   "main": "gulpfile.js",
-  "homepage": "https://VasylMymriak.github.io/Desire",
+  "homepage": "https://github.com/VasylMymriak/Desire",
   "scripts": {
     "deploy": "gh-pages -d src"
   },
